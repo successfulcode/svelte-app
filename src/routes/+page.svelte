@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
+	<title>Hello on home page</title>
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		To your new<br />SvelteKit app
 	</h1>
 
 	<h2>

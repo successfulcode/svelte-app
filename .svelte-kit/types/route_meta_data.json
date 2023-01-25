@@ -5,10 +5,16 @@
 	"/about": [
 		"src/routes/about/+page.ts"
 	],
+	"/first": [
+		"src/routes/first/+page.ts"
+	],
 	"/sverdle": [
 		"src/routes/sverdle/+page.server.ts"
 	],
 	"/sverdle/how-to-play": [
 		"src/routes/sverdle/how-to-play/+page.ts"
+	],
+	"/todo": [
+		"src/routes/todo/+page.ts"
 	]
 }
